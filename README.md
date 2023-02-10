@@ -14,6 +14,7 @@ Após executado uma vez:
 # Imagem do projeto
 
 Rodando em segundo plano:
+
 ![image](https://user-images.githubusercontent.com/101680647/218084374-da5edb1a-1093-4828-a75d-1c7a0f634647.png)
 
 
