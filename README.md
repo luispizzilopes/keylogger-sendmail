@@ -11,11 +11,15 @@ Após executado uma vez:
 - Se instala nos registros de inicialização do Windows, para ser executado sempre que o computador ligar.
 
 
-# Imagem do projeto
+# Imagens do projeto
 
 Rodando em segundo plano:
 
 ![image](https://user-images.githubusercontent.com/101680647/218084374-da5edb1a-1093-4828-a75d-1c7a0f634647.png)
+
+Instalado no registro de inicialização do Windows:
+
+![Sem título](https://user-images.githubusercontent.com/101680647/218089285-b047d0ef-07a9-4416-9c6c-0933db07aa47.png)
 
 
 # Como configurar o projeto
