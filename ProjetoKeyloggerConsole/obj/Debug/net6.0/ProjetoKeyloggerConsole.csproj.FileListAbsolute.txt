@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\bin\Debug\net6.0\ProjetoKeyloggerConsole.exe
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\bin\Debug\net6.0\ProjetoKeyloggerConsole.deps.json
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\bin\Debug\net6.0\ProjetoKeyloggerConsole.runtimeconfig.json
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\bin\Debug\net6.0\ProjetoKeyloggerConsole.dll
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\bin\Debug\net6.0\ProjetoKeyloggerConsole.pdb
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.AssemblyInfo.cs
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.dll
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\refint\ProjetoKeyloggerConsole.dll
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.pdb
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ProjetoKeyloggerConsole.genruntimeconfig.cache
+C:\Users\PC\source\repos\ProjetoKeyloggerConsole\ProjetoKeyloggerConsole\obj\Debug\net6.0\ref\ProjetoKeyloggerConsole.dll
