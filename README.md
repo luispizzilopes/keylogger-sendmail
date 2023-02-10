@@ -32,6 +32,7 @@ Rodando em segundo plano:
 - Na quinta linha informe a partir de quantos caracteres o Keylogger vai enviar automaticamente um novo email com as informações capturadas.
 
 Exemplo:
+
 ![image](https://user-images.githubusercontent.com/101680647/218086834-50d1083b-992a-4ae3-97b7-c5c03eb3ce23.png)
 
 
